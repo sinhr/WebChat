@@ -1,4 +1,4 @@
-package com.github.sinhr.webchat;
+package com.github.sinhr.webchat.server;
 
 import java.io.IOException;
 import java.io.PrintWriter;

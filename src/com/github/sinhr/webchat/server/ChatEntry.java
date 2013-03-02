@@ -1,4 +1,4 @@
-package com.github.sinhr.webchat;
+package com.github.sinhr.webchat.server;
 
 public class ChatEntry {
 	private String nick;

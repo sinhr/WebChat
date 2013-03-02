@@ -13,5 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/kuzya/workspace/WebChat/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuzya/workspace/WebChat/lib/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuzya/workspace/WebChat/lib/miglayout15-swing.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
